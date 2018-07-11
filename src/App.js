@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import logo from './Jive-logo.png';
 import './App.css';
-//import traceroute from 
+//import traceroute from 'traceroute';
+import ping from 'ping';
 
 class App extends Component {
 
