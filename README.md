@@ -1,3 +1,5 @@
+This project is to demonstrate the ability to run a network test and see if any possible incompatibilities exist on the local network, and a business class VoIP system.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
