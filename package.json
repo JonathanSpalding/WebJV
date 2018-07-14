@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "^6.5.2",
+    "net-ping": "^1.2.3",
+    "network-address": "^1.1.2",
     "ping": "^0.2.2",
+    "raw-socket": "^1.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4",

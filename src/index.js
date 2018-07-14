@@ -5,6 +5,7 @@ import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 //import traceroute from 'traceroute';
 import ping from 'ping';
+//import net-ping from 'net-ping';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
